@@ -1,0 +1,19 @@
+{
+    "name": "fantomx1/fantomx1helpers",
+    "description": "useful php helper functions like backbone.js",
+    "type": "library",
+    "authors": [
+        {
+            "name": "frantisek.hallo",
+            "email": "fantomx1@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+
+    "autoload": {
+        "psr-0": {
+            "fantomx1Helpers": "src/"
+        }
+    }
+}
